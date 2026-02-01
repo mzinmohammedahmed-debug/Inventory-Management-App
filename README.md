@@ -19,3 +19,13 @@ Outil d'automatisation de gestion de stocks développé pour une PME, permettant
 
 ## 📈 Impact Métier
 Cet outil a permis de réduire le temps de saisie manuelle des stocks et de minimiser les erreurs d'inventaire grâce à l'automatisation du nettoyage des données factures.
+
+## 📸 Aperçu de l'interface
+
+![Capture d'écran de l'accueil](screenshots/screenshot_home.png)
+
+*Légende : Visualisation de l'état des stocks et des indicateurs clés.*
+
+![Capture d'écran de l'import](screenshots/screenshot_import.png)
+
+*Légende : Module d'importation intelligente de fichiers Excel.*
